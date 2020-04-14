@@ -1,0 +1,17 @@
+{
+  "name": "Demo",
+  "description": "Access Demo",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://localhost:3013"
+    ],
+    "launch": {
+      "web_url": "http://localhost:3013"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

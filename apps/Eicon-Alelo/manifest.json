@@ -1,0 +1,17 @@
+{
+  "name": "Alelo",
+  "description": "Access Alelo",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.meualelo.com.br"
+    ],
+    "launch": {
+      "web_url": "https://www.meualelo.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Trello",
+  "description": "Access Trello",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://trello.com"
+    ],
+    "launch": {
+      "web_url": "https://trello.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

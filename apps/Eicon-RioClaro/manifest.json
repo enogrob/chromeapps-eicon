@@ -1,0 +1,17 @@
+{
+  "name": "Rio Claro",
+  "description": "Access Rio Claro",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://localhost:3003"
+    ],
+    "launch": {
+      "web_url": "http://localhost:3003"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

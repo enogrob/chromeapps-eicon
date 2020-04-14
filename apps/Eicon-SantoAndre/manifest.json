@@ -1,0 +1,17 @@
+{
+  "name": "Santo André",
+  "description": "Access Santo André",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://localhost:3005"
+    ],
+    "launch": {
+      "web_url": "http://localhost:3005"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

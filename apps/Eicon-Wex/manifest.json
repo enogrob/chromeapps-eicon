@@ -1,0 +1,17 @@
+{
+  "name": "Wex",
+  "description": "Access Wex",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.wexmeucartao.com.br"
+    ],
+    "launch": {
+      "web_url": "https://www.wexmeucartao.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

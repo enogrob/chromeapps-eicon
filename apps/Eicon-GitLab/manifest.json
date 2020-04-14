@@ -1,0 +1,17 @@
+{
+  "name": "GitLab",
+  "description": "Access GitLab",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://gitlab.tecnogroup.com.br"
+    ],
+    "launch": {
+      "web_url": "https://gitlab.tecnogroup.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

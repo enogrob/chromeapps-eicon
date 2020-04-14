@@ -1,0 +1,17 @@
+{
+  "name": "Rio Claro (Homolog)",
+  "description": "Access Rio Claro (Homolog)",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://homologrioclaro.inmov.net.br"
+    ],
+    "launch": {
+      "web_url": "https://homologrioclaro.inmov.net.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

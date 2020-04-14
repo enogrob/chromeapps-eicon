@@ -1,0 +1,17 @@
+{
+  "name": "Olimpia (Homolog)",
+  "description": "Access Olimpia (Homolog)",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://homologolimpia.inmov.net.br"
+    ],
+    "launch": {
+      "web_url": "https://homologolimpia.inmov.net.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

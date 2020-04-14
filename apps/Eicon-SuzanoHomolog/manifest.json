@@ -1,0 +1,17 @@
+{
+  "name": "Suzano (Homolog)",
+  "description": "Access Suzano (Homolog)",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://homologsuzano.inmov.net.br"
+    ],
+    "launch": {
+      "web_url": "https://homologsuzano.inmov.net.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

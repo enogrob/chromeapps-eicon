@@ -1,0 +1,17 @@
+{
+  "name": "Demo (Homolog)",
+  "description": "Access Demo (Homolog)",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://demo.inmov.net.br"
+    ],
+    "launch": {
+      "web_url": "https://demo.inmov.net.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

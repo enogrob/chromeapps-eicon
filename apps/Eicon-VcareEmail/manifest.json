@@ -1,0 +1,17 @@
+{
+  "name": "OutlookWeb",
+  "description": "Access OutlookWeb",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://outlook.office.com/owa"
+    ],
+    "launch": {
+      "web_url": "https://outlook.office.com/owa"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

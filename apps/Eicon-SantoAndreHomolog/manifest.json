@@ -1,0 +1,17 @@
+{
+  "name": "Santo André (Homolog)",
+  "description": "Access Santo André (Homolog)",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://homologsantoandre.inmov.net.br"
+    ],
+    "launch": {
+      "web_url": "https://homologsantoandre.inmov.net.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

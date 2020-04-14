@@ -1,0 +1,17 @@
+{
+  "name": "Olimpia",
+  "description": "Access Olimpia",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://localhost:3002"
+    ],
+    "launch": {
+      "web_url": "http://localhost:3002"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

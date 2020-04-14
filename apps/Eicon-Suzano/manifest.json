@@ -1,0 +1,17 @@
+{
+  "name": "Suzano",
+  "description": "Access Suzano",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://localhost:3004"
+    ],
+    "launch": {
+      "web_url": "http://localhost:3004"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

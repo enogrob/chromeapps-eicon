@@ -1,0 +1,17 @@
+{
+  "name": "Slack",
+  "description": "Access Slack",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://acto-inmov.slack.com"
+    ],
+    "launch": {
+      "web_url": "https://acto-inmov.slack.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

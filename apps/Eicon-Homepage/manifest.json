@@ -1,0 +1,17 @@
+{
+  "name": "Eicon",
+  "description": "Access Eicon",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.eicon.com.br"
+    ],
+    "launch": {
+      "web_url": "http://www.eicon.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

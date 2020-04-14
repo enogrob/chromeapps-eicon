@@ -1,0 +1,17 @@
+{
+  "name": "SIRGEF",
+  "description": "Access SIRGEF",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.codeciphers.com/SIRGEF/Login.aspx?company=EICON"
+    ],
+    "launch": {
+      "web_url": "http://www.codeciphers.com/SIRGEF/Login.aspx?company=EICON"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

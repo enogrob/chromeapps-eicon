@@ -1,0 +1,17 @@
+{
+  "name": "Teams",
+  "description": "Access Teams",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://teams.microsoft.com/_?lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/General?threadId=19:f05ca635e2304d17b3d273e15a725a63@thread.skype&ctx=channel"
+    ],
+    "launch": {
+      "web_url": "https://teams.microsoft.com/_?lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/General?threadId=19:f05ca635e2304d17b3d273e15a725a63@thread.skype&ctx=channel"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
