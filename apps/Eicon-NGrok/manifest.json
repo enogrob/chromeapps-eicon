@@ -1,14 +1,14 @@
 {
-  "name": "RailsServer",
-  "description": "Access RailsServer",
+  "name": "NGrok",
+  "description": "Access NGrok",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://127.0.0.1:3000"
+      "http://127.0.0.1:4040"
     ],
     "launch": {
-      "web_url": "http://127.0.0.1:3000"
+      "web_url": "http://127.0.0.1:4040"
     }
   },
   "icons": {
