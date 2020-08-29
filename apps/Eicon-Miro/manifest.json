@@ -1,0 +1,17 @@
+{
+  "name": "Miro",
+  "description": "Access Miro",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://miro.com/app/dashboard/"
+    ],
+    "launch": {
+      "web_url": "https://miro.com/app/dashboard/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
