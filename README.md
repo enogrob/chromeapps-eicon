@@ -11,30 +11,33 @@ Open a terminal give the following command:
 $ git clone https://github.com/enogrob/chromeapps-eicon.git
 ```
 
-As we can see a subdirectory is created for each Rails app.
+As we can see a subdirectory is created for each Eicon app.
 
 ```bash
-[TODAY (master)]$ ls -la
 total 400
-drwxr-xr-x@   7 enogrob  staff   238 Apr 14 12:48 .
-drwxr-xr-x@ 258 enogrob  staff  8772 Apr 14 12:31 ..
--rw-r--r--    1 enogrob  staff    13 Apr 14 12:31 .gitignore
--rw-r--r--@   1 enogrob  staff     0 Apr 14 12:31 Icon?
--rw-r--r--    1 enogrob  staff  1991 Apr 14 12:49 README.md
-drwxr-xr-x   23 enogrob  staff   782 Apr 14 12:48 apps
-drwxr-xr-x    5 enogrob  staff   170 May 31  2016 images
+drwxr-xr-x@   8 enogrob  staff    272 Oct  3 17:01 .
+drwxr-xr-x@ 296 enogrob  staff  10064 Oct  3 17:01 ..
+drwxr-xr-x   12 enogrob  staff    408 Oct  3 17:01 .git
+-rw-r--r--    1 enogrob  staff     13 Oct  3 17:01 .gitignore
+-rw-r--r--@   1 enogrob  staff      0 Oct  3 17:01 Icon?
+-rw-r--r--@   1 enogrob  staff   1823 Oct  3 17:01 README.md
+drwxr-xr-x   26 enogrob  staff    884 Oct  3 17:01 apps
+drwxr-xr-x    4 enogrob  staff    136 Oct  3 17:01 images
 
 $ tree -L 1 apps/
+apps
 ├── Eicon-Alelo
+├── Eicon-Default
 ├── Eicon-Demo
 ├── Eicon-DemoHomolog
 ├── Eicon-EngineYard
 ├── Eicon-GitLab
 ├── Eicon-Homepage
+├── Eicon-Miro
 ├── Eicon-NGrok
+├── Eicon-ObrasDevTools
 ├── Eicon-Olimpia
 ├── Eicon-OlimpiaHomolog
-├── Eicon-Default
 ├── Eicon-RioClaro
 ├── Eicon-RioClaroHomolog
 ├── Eicon-SIRGEF
