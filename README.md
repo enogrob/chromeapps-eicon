@@ -14,6 +14,7 @@ $ git clone https://github.com/enogrob/chromeapps-eicon.git
 As we can see a subdirectory is created for each Eicon app.
 
 ```bash
+$ ls -la
 total 400
 drwxr-xr-x@   8 enogrob  staff    272 Oct  3 17:01 .
 drwxr-xr-x@ 296 enogrob  staff  10064 Oct  3 17:01 ..
