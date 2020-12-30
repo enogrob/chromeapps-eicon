@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://www.engineyard.com/"
+      "https://cloud.engineyard.com/accounts/11492/apps"
     ],
     "launch": {
-      "web_url": "https://www.engineyard.com/"
+      "web_url": "https://cloud.engineyard.com/accounts/11492/apps"
     }
   },
   "icons": {
