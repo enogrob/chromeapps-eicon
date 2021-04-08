@@ -1,6 +1,6 @@
 {
-  "name": "Santo André (Homolog)",
-  "description": "Access Santo André (Homolog)",
+  "name": "Santo André",
+  "description": "Access Santo André",
   "version": "1",
   "manifest_version": 2,
   "app": {

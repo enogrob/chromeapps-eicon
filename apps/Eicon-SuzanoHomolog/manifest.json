@@ -1,6 +1,6 @@
 {
-  "name": "Suzano (Homolog)",
-  "description": "Access Suzano (Homolog)",
+  "name": "Suzano",
+  "description": "Access Suzano",
   "version": "1",
   "manifest_version": 2,
   "app": {

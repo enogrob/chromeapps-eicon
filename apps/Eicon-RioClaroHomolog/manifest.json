@@ -1,6 +1,6 @@
 {
-  "name": "Rio Claro (Homolog)",
-  "description": "Access Rio Claro (Homolog)",
+  "name": "Rio Claro",
+  "description": "Access Rio Claro",
   "version": "1",
   "manifest_version": 2,
   "app": {
