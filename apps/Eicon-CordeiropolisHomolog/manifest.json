@@ -1,0 +1,17 @@
+{
+  "name": "Cordeirópolis (Homolog)",
+  "description": "Access Cordeirópolis (Homolog)",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://homologcordeiropolis.inmov.net.br"
+    ],
+    "launch": {
+      "web_url": "https://homologcordeiropolis.inmov.net.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

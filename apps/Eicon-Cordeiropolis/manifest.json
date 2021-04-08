@@ -1,0 +1,17 @@
+{
+  "name": "Cordeirópolis",
+  "description": "Access Cordeiropólis",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://localhost:3006"
+    ],
+    "launch": {
+      "web_url": "http://localhost:3006"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

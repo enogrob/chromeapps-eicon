@@ -28,12 +28,15 @@ drwxr-xr-x    4 enogrob  staff    136 Oct  3 17:01 images
 $ tree -L 1 apps/
 apps
 ├── Eicon-Alelo
+├── Eicon-Cordeiropolis
+├── Eicon-CordeiropolisHomolog
 ├── Eicon-Default
 ├── Eicon-Demo
 ├── Eicon-DemoHomolog
 ├── Eicon-EngineYard
 ├── Eicon-GitLab
 ├── Eicon-Homepage
+├── Eicon-MailCatcher
 ├── Eicon-Miro
 ├── Eicon-NGrok
 ├── Eicon-ObrasDevTools
@@ -52,7 +55,7 @@ apps
 ├── Eicon-VcareEmail
 └── Eicon-Wex
 
-21 directories, 0 file
+27 directories, 0 file
 $
 ```
 
